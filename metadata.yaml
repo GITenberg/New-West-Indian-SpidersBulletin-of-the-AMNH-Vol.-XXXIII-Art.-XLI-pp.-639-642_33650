@@ -1,0 +1,49 @@
+_repo: New-West-Indian-SpidersBulletin-of-the-AMNH-Vol.-XXXIII-Art.-XLI-pp.-639-642_33650
+_version: 0.1.0
+contributor:
+  contributors:
+  - agent_name: Leng, Charles W. (Charles William)
+    aliases:
+    - Leng, Charles William
+    - Leng, C. W. (Charles William)
+    birthdate: 1859
+    deathdate: 1941
+    gutenberg_agent_id: '38391'
+    url: http://www.gutenberg.org/2009/agents/38391
+  - agent_name: Lutz, Frank Eugene
+    birthdate: 1879
+    deathdate: 1943
+    gutenberg_agent_id: '25916'
+    url: http://www.gutenberg.org/2009/agents/25916
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Banks, Nathan
+    birthdate: 1868
+    deathdate: 1953
+    gutenberg_agent_id: '36518'
+    url: http://www.gutenberg.org/2009/agents/36518
+description: ''
+gutenberg_bookshelf:
+- Animal
+- Animals-Wild
+gutenberg_issued: '2010-09-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '33650'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Spiders -- Cuba -- Classification'
+- !lcsh 'Spiders -- Puerto Rico -- Classification'
+- !lcsh 'Arachnida -- Cuba -- Classification'
+- !lcsh 'Arachnida -- Puerto Rico -- Classification'
+- !lcc 'QH'
+title: 'New West Indian Spiders
+
+  Bulletin of the AMNH, Vol. XXXIII, Art. XLI, pp. 639-642'
+url: http://www.gutenberg.org/ebooks/33650
