@@ -26,6 +26,8 @@ creator:
     gutenberg_agent_id: '36518'
     url: http://www.gutenberg.org/2009/agents/36518
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/33650#New-West-Indian-SpidersBulletin-of-the-AMNH-Vol.-XXXIII-Art.-XLI-pp.-639-642
 gutenberg_bookshelf:
 - Animal
 - Animals-Wild
